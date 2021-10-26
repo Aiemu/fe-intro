@@ -44,7 +44,7 @@
 效果如图：
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gvstca6kw5j31a20cojs0.jpg)
 
-**提示**：参考标题、姓名和学号的实现。`<div><\div>` 标签会换行，而 `<span></span>` 不会。
+**提示**：参考标题、姓名和学号的实现。`<div></div>` 标签会换行，而 `<span></span>` 不会。
 
 ### 4.2 `CSS` 练习
 1. 将 4.1.3 中的 `0` 的样式设置如下：
